@@ -1,0 +1,169 @@
+body {
+	font-family: Montserrat, sem serifa;
+	background: linear-gradient(#ffffff, #ffffff, #555454);
+}
+
+header {
+	background-color: #bbbbbb;
+	padding: 20px 0;
+}
+
+.img {
+	width: 20%;
+	margin-left: 90px;
+}
+
+
+nav {
+	position: relative;
+	margin-left: 800px;
+	bottom: 140px;
+}
+
+nav li {
+	display: inline;
+	padding: 10px;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	font-size: 27px;
+}
+
+nav a:hover {
+	font-size: 33px;
+	text-decoration: underline;
+	color: crimson;
+}
+
+main {
+	position: relative;
+	text-align: center;
+}
+
+main img {
+	width: 100%;
+}
+
+main h2 {
+	font-size: 30px;
+	margin: 30px 0;
+
+}
+
+.h3 {
+	font-size: 45px;
+	position: absolute;
+	width: 100%;
+	right: 0 auto;
+}
+
+
+
+main p {
+	font-size: 20px;
+}
+
+#missao strong {
+	color: red;
+	font-size: 25px;
+}
+
+.produtos1 {
+	display: absolute;
+	position: relative;
+	font-size: 30px;
+	text-align: left;
+	margin-left: 190px;
+	top: 230px;
+}
+
+.itens1 {
+	font-weight: bold;
+}
+
+.itens {
+	line-height: 40px;
+}
+
+
+
+.imagembeneficios {
+	display: flex;
+	width: 40%;
+	margin-left: 740px;
+
+}
+
+
+
+footer {
+	text-align: center;
+
+	font-size: 13px;
+	background: #686262;
+	padding: 30px 0;
+}
+
+
+
+.Copyright p {
+	color: black;
+
+}
+
+/*pagina principal 2.0*/
+.conteiner {
+	margin-left: 180px;
+
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 3em;
+
+}
+
+.conteiner p {
+	margin: 0 0 1em;
+	text-align: left;
+	margin-left: 200px;
+	margin-right: 150px;
+
+}
+
+.utensilios {
+
+	width: 150px;
+	float: left;
+
+
+}
+
+.conteiner strong {
+	font-style: italic;
+}
+
+.conteiner em {
+	font-weight: bold;
+}
+
+
+
+.Mapa h2 {
+	font-size: 3em;
+	text-align: center;
+}
+
+.Mapa p {
+	margin: 0 0 20px 0;
+}
+
+.vidio {
+	margin: 40px 0;
+
+}

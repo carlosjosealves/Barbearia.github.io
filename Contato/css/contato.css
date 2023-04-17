@@ -1,0 +1,120 @@
+header {
+    background: #cccccc;
+}
+
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    font-size: 25px;
+    margin-left: 20px;
+
+}
+
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e84624;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    font-size: 13px;
+    background: #cccccc;
+    padding: 10px 0;
+}
+
+.Copyright p {
+    color: rgb(253, 248, 248);
+    margin: 20px;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+
+form {
+    margin: 30px auto;
+}
+
+form label,
+form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px 0;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    width: 50%;
+    padding: 10px 25px;
+}
+
+.checkbox {
+    margin: 20px 0;
+
+}
+
+.botao {
+    width: 40%;
+    padding: 10px 0;
+    font-size: 15px;
+    background: orange;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    transition: 1s all;
+    cursor: pointer;
+
+}
+
+.botao:hover {
+    background: #e84624;
+    transform: scale(1.2);
+}
+
+table {
+    margin: 20px 0 40px;
+    border: 1px solid;
+    transition: 1s all;
+
+}
+
+table:hover {
+    font-size: 30px;
+    transform: scale(1.1);
+}
+
+thead {
+    background: #555555;
+    color: #ffffff;
+}
+
+td,
+th {
+    border: 1px solid #000000;
+    padding: 10px 20px;
+
+}
